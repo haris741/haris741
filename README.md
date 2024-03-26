@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Haris....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Haris+Manzoor....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -14,7 +14,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Haris Manzoor, Senior Software Engineer at <a target="_blank" href="https://github.com/Codeaza-A-Creative-Agency">Codeaza Technologies pvt ltd </a>
+  Hi, I'm Haris Manzoor, Software Engineer at Carbon6 and a Github Campus expert
   <br>
   <br>
   
