@@ -1,108 +1,61 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=haris741.haris741">
+<!-- Cover Picture -->
+<p align="center">
+  <img width="100%" alt="Cover Image" src="https://media.licdn.com/dms/image/v2/D4D16AQES4HZNG-CWUA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729642833972?e=1738195200&v=beta&t=6GbTaq03eg3-C4N4tVvdSLAW5sMLeLp51HuAE1JIyLk" />
+</p>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Haris+Manzoor....;Nice+to+meet+you!&center=true&size=30">
+## Hi, I'm Haris Manzoor, Director of Technology at CodeDevza Technologies🚀 from Pakistan.
+
+<!-- Your badges -->
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/haris741)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harrismanzoor/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_hhaarriiss/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:harrissmanzoor22@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:harrissmanzoor22@hotmail.com)
+
+&nbsp;
+
+<!-- Talking about you -->
+**About Me:**
+
+<!-- Any image aligned to the right -->
+<img width="50%" align="right" alt="Haris" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+I’m Haris Manzoor, the Director of Technology at **CodeDevza Technologies**. We specialize in building **AI-powered MVPs** and **scalable tech solutions** that help businesses bring their ideas to life. My focus is on driving innovation and creating cutting-edge technology that powers the next generation of startups.
+
+- 👨🏽‍💻 Currently leading tech strategy and development at CodeDevza, building innovative AI-driven solutions for businesses of all sizes.
+- 🌱 I’m actively working on **AI-powered MVPs** and leveraging the latest technologies like **NestJS**, **Next.js**, and **React** to build scalable solutions.
+- 👯 We’re looking to collaborate with forward-thinking startups and entrepreneurs to help them build and scale their tech solutions efficiently.
+- 💬 Feel free to ask me about **AI**, **MVP development**, or **scalable architecture** — I’m always happy to help.
+- ⚡ Fun Fact: I have a degree in Software Engineering and a passion for turning innovative ideas into reality with cutting-edge technology.
+
+**Languages and Tools:** 
+
+<p>
+  <a href="https://github.com/haris741">
+    <img width="50%" align="right" alt="Haris's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=haris741&show_icons=true&hide_border=true" />
   </a>
-</h1>
 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/harrismanzoor/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  
-  <code><a href="https://www.instagram.com/_hhaarriiss/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
-<br>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+</p>
+
+<hr>
+
+<!-- Your visitor count -->
 <p align="center">
-  Hi, I'm Haris Manzoor, Software Engineer at Carbon6 and a Github Campus expert
-  <br>
-  <br>
-  
-  🎓 I graduated from FAST National University, Islamabad
-  <br>
-  
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning JavaScript technologies like Nest, NEXT etc.
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/haris741/haris741/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: harrissmanzoor22@gmail.com">harrissmanzoor22@gmail.com</a>
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/haris741/haris741.svg" />
 </p>
 
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-</p>
-<hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=haris741&theme=react&border=61dafb&hide_border=true" alt="haris741" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=haris741&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haris741&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=haris741&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
-<hr>
-
-<h4 align="center">
-  <a href="https://github.com/haris741?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
-
-<!--
-**haris741/haris741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
-![Metrics](https://metrics.lecoq.io/haris741?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
-
--->
