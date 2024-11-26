@@ -3,7 +3,7 @@
   <img width="100%" alt="Cover Image" src="https://media.licdn.com/dms/image/v2/D4D16AQES4HZNG-CWUA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729642833972?e=1738195200&v=beta&t=6GbTaq03eg3-C4N4tVvdSLAW5sMLeLp51HuAE1JIyLk" />
 </p>
 
-## Hi, I'm Haris Manzoor, Director of Technology at CodeDevza Technologies🚀 from Pakistan.
+## Hi, I'm Haris Manzoor, Director of Technology at CodeDevza Technologies.🚀
 
 <!-- Your badges -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/haris741)
