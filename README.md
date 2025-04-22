@@ -1,6 +1,6 @@
 <!-- Cover Picture -->
 <p align="center">
-  <img width="100%" alt="Cover Image" src="https://media.licdn.com/dms/image/v2/D4D16AQES4HZNG-CWUA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729642833972?e=1738195200&v=beta&t=6GbTaq03eg3-C4N4tVvdSLAW5sMLeLp51HuAE1JIyLk" />
+  <img width="100%" alt="Cover Image" src="https://media.licdn.com/dms/image/v2/D4D16AQES4HZNG-CWUA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729642833972?e=1750896000&v=beta&t=SyrgLLE657CoxMASLLQCH5JFDPbB7O7Lwp7go8rjfWs" />
 </p>
 
 ## Hi, I'm Haris Manzoor, Director of Technology at CodeDevza Technologies.🚀
